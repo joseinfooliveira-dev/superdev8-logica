@@ -1,4 +1,4 @@
-// kebak-case ex: cliente-compras
+kebak-case ex: cliente-compras
 // camelCase ex: clienteCompras
 // PascalCase ex: ClienteCompras
 // snake_case ex: cliente_compras
@@ -56,7 +56,6 @@ function exemploVariaveis() {
     // Usuário finalizou a compra
     finalizadaCompra = true;
 
-    alert(
         "Destino: " + destino +
         "\nQuantidade de dias: " + quantidadeDias +
         "\nPreço da diária: " + precoDiaria +
